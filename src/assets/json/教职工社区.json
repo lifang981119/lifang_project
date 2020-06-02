@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              116.84,
+              35.30
+            ],
+
+            [
+              116.60,
+              35.30
+            ],
+            [
+              116.60,
+              35.40
+            ],
+            [
+              116.84,
+              35.40
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "province": "山东省",
+        "city": "济宁市",
+        "district": "任城区",
+        "town": "许庄街道",
+        "poptotal": 58363,
+        "area": 77.3491922343,
+        "pop_densit": 754.539230651,
+        "name": "山东理工职业学院教职工社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              116.70,
+              35.30
+            ],
+
+            [
+              116.74,
+              35.30
+            ],
+            [
+              116.74,
+              35.31
+            ],
+            [
+              116.70,
+              35.31
+            ]
+          ]
+        ]
+    },
+      "properties": {
+        "province": "山东省",
+        "city": "济宁市",
+        "district": "任城区",
+        "town": "许庄街道",
+        "poptotal": 58363,
+        "area": 77.3491922343,
+        "pop_densit": 754.539230651,
+        "name": "社区南大门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              116.70,
+              35.39
+            ],
+
+            [
+              116.74,
+              35.39
+            ],
+            [
+              116.74,
+              35.40
+            ],
+            [
+              116.70,
+              35.40
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "province": "山东省",
+        "city": "济宁市",
+        "district": "任城区",
+        "town": "许庄街道",
+        "poptotal": 58363,
+        "area": 77.3491922343,
+        "pop_densit": 754.539230651,
+        "name": "社区北大门"
+      }
+    }
+  ]
+}
